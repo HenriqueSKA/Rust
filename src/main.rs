@@ -3,6 +3,7 @@ use std::io::{self, Write};
 fn main() {
     // COLETA O NOME
     print!("Digite o nome completo: ");
+    
     io::stdout().flush().unwrap(); 
     let mut nome_completo = String::new();
     io::stdin().read_line(&mut nome_completo).expect("Falha ao ler a linha");
