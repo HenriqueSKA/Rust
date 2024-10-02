@@ -1,0 +1,1 @@
+C:\Users\henri\Desktop\Rust\ATIVIDADES\Atividades\ de\ fixação\fixação_de_vetores\target\debug\fixação_de_vetores.exe: C:\Users\henri\Desktop\Rust\ATIVIDADES\Atividades\ de\ fixação\fixação_de_vetores\src\main.rs
